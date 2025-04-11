@@ -2,6 +2,7 @@
     "name": "azle-experimental-deps",
     "version": "0.30.0",
     "dependencies": {
+        "@dfinity/identity-secp256k1": "^2.4.1",
         "@sinonjs/text-encoding": "^0.7.3",
         "buffer": "^6.0.3",
         "chokidar": "^4.0.3",
