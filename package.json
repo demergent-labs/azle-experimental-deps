@@ -2,7 +2,7 @@
     "name": "azle-experimental-deps",
     "version": "0.0.0",
     "dependencies": {
-        "@dfinity/identity-secp256k1": "^2.4.1",
+        "@dfinity/identity-secp256k1": "^3.0.1",
         "@types/pako": "^2.0.3",
         "buffer": "^6.0.3",
         "chokidar": "^4.0.3",
