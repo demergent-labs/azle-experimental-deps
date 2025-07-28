@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
-    "@dfinity/identity-secp256k1": "^3.0.2",
+    "@dfinity/identity-secp256k1": "^3.1.0",
     "@types/pako": "^2.0.3",
     "buffer": "^6.0.3",
     "chokidar": "^4.0.3",
